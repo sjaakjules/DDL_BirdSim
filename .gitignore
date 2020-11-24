@@ -2,9 +2,9 @@
 #
 # Custom folders to be ignored.
 # Contact author for ondrive/dropbox link to files.
-/Large Files/
-/Resources/
-/Builds/
+*/Large Files/
+*/Resources/
+*/Builds/
 
 
 # This .gitignore file should be placed at the root of your Unity project directory
