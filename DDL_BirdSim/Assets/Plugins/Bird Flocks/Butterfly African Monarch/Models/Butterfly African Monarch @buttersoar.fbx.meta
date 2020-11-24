@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 645b95bbc7945a4439b68d5c3fa6df01
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Antenna_L_1
+    100002: Antenna_L_2
+    100004: Antenna_R_1
+    100006: Antenna_R_2
+    100008: Feet_L_1
+    100010: Feet_L_2
+    100012: Feet_R_1
+    100014: Feet_R_2
+    100016: Head
+    100018: //RootNode
+    100020: polySurface5
+    100022: Root
+    100024: Tail_1
+    100026: Tail_2
+    100028: Wing_L_1
+    100030: Wing_L_2
+    100032: Wing_R_1
+    100034: Wing_R_2
+    100036: ButterflyMesh
+    100038: ButterflyMeshLow
+    400000: Antenna_L_1
+    400002: Antenna_L_2
+    400004: Antenna_R_1
+    400006: Antenna_R_2
+    400008: Feet_L_1
+    400010: Feet_L_2
+    400012: Feet_R_1
+    400014: Feet_R_2
+    400016: Head
+    400018: //RootNode
+    400020: polySurface5
+    400022: Root
+    400024: Tail_1
+    400026: Tail_2
+    400028: Wing_L_1
+    400030: Wing_L_2
+    400032: Wing_R_1
+    400034: Wing_R_2
+    400036: ButterflyMesh
+    400038: ButterflyMeshLow
+    4300000: polySurface5
+    4300002: ButterflyMesh
+    4300004: ButterflyMeshLow
+    7400000: buttersoar
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface5
+    13700002: ButterflyMesh
+    13700004: ButterflyMeshLow
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: buttersoar
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

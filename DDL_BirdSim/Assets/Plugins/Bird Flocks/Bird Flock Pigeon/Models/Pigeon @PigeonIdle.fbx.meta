@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 928cb0ff0f335a141a317d0733a5c85e
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Lwing2
+    100002: Lwing
+    100004: //RootNode
+    100006: Lfoot
+    100008: Rgoot3
+    100010: Rfoot2
+    100012: Rfoot
+    100014: Feet
+    100016: Head2
+    100018: Rwing3
+    100020: Rwing2
+    100022: Rwing
+    100024: Pivot
+    100026: CrowMesh
+    100028: Tail2
+    100030: Tail
+    100032: Rwing4
+    100034: Head
+    100036: Lfoot3
+    100038: Lfoot2
+    100040: Lwing3
+    100042: Lwing4
+    100044: Head_1
+    100046: Head_2
+    100048: Head_3
+    100050: Leg_L_1
+    100052: Leg_L_2
+    100054: Leg_L_3
+    100056: Leg_L_4
+    100058: Leg_R_1
+    100060: Leg_R_2
+    100062: Leg_R_3
+    100064: Leg_R_4
+    100066: PigeonMesh
+    100068: Root
+    100070: Tail_1
+    100072: Tail_2
+    100074: Tail_3
+    100076: Wing_L_1
+    100078: Wing_L_2
+    100080: Wing_L_3
+    100082: Wing_L_4
+    100084: Wing_L_5
+    100086: Wing_R_1
+    100088: Wing_R_2
+    100090: Wing_R_3
+    100092: Wing_R_4
+    100094: Wing_R_5
+    400000: Lwing2
+    400002: Lwing
+    400004: //RootNode
+    400006: Lfoot
+    400008: Rgoot3
+    400010: Rfoot2
+    400012: Rfoot
+    400014: Feet
+    400016: Head2
+    400018: Rwing3
+    400020: Rwing2
+    400022: Rwing
+    400024: Pivot
+    400026: CrowMesh
+    400028: Tail2
+    400030: Tail
+    400032: Rwing4
+    400034: Head
+    400036: Lfoot3
+    400038: Lfoot2
+    400040: Lwing3
+    400042: Lwing4
+    400044: Head_1
+    400046: Head_2
+    400048: Head_3
+    400050: Leg_L_1
+    400052: Leg_L_2
+    400054: Leg_L_3
+    400056: Leg_L_4
+    400058: Leg_R_1
+    400060: Leg_R_2
+    400062: Leg_R_3
+    400064: Leg_R_4
+    400066: PigeonMesh
+    400068: Root
+    400070: Tail_1
+    400072: Tail_2
+    400074: Tail_3
+    400076: Wing_L_1
+    400078: Wing_L_2
+    400080: Wing_L_3
+    400082: Wing_L_4
+    400084: Wing_L_5
+    400086: Wing_R_1
+    400088: Wing_R_2
+    400090: Wing_R_3
+    400092: Wing_R_4
+    400094: Wing_R_5
+    4300000: CrowMesh
+    4300002: PigeonMesh
+    7400004: Take 001
+    11100000: //RootNode
+    13700000: Pivot
+    13700002: CrowMesh
+    13700004: PigeonMesh
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0250000004
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 110
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
